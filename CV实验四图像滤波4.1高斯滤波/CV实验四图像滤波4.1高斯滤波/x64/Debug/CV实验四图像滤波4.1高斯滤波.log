@@ -1,0 +1,35 @@
+﻿  E4.1.cpp
+d:\cv实验\cv实验四图像滤波4.1高斯滤波\cv实验四图像滤波4.1高斯滤波\e4.1.cpp(29): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\cv实验\cv实验四图像滤波4.1高斯滤波\cv实验四图像滤波4.1高斯滤波\e4.1.cpp(34): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\cv实验\cv实验四图像滤波4.1高斯滤波\cv实验四图像滤波4.1高斯滤波\e4.1.cpp(61): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+d:\cv实验\cv实验四图像滤波4.1高斯滤波\cv实验四图像滤波4.1高斯滤波\e4.1.cpp(62): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+d:\cv实验\cv实验四图像滤波4.1高斯滤波\cv实验四图像滤波4.1高斯滤波\e4.1.cpp(63): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+d:\cv实验\cv实验四图像滤波4.1高斯滤波\cv实验四图像滤波4.1高斯滤波\e4.1.cpp(79): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+d:\cv实验\cv实验四图像滤波4.1高斯滤波\cv实验四图像滤波4.1高斯滤波\e4.1.cpp(80): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+d:\cv实验\cv实验四图像滤波4.1高斯滤波\cv实验四图像滤波4.1高斯滤波\e4.1.cpp(81): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+d:\cv实验\cv实验四图像滤波4.1高斯滤波\cv实验四图像滤波4.1高斯滤波\e4.1.cpp(88): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  CV实验四图像滤波4.1高斯滤波.vcxproj -> D:\CV实验\CV实验四图像滤波4.1高斯滤波\x64\Debug\CV实验四图像滤波4.1高斯滤波.exe

@@ -1,0 +1,7 @@
+﻿  E7.cpp
+d:\cv实验\cv实验七提取几何形状\cv实验七提取几何形状\e7.cpp(129): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\cv实验\cv实验七提取几何形状\cv实验七提取几何形状\e7.cpp(130): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\cv实验\cv实验七提取几何形状\cv实验七提取几何形状\e7.cpp(143): warning C4552: ”-“: 未使用表达式结果
+d:\cv实验\cv实验七提取几何形状\cv实验七提取几何形状\e7.cpp(188): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\cv实验\cv实验七提取几何形状\cv实验七提取几何形状\e7.cpp(189): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  CV实验七提取几何形状.vcxproj -> D:\CV实验\CV实验七提取几何形状\x64\Debug\CV实验七提取几何形状.exe

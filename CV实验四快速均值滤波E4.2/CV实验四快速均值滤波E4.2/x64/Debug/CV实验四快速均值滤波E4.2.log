@@ -1,0 +1,8 @@
+﻿  E4.2.cpp
+d:\cv实验\cv实验四快速均值滤波e4.2\cv实验四快速均值滤波e4.2\e4.2.cpp(31): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\cv实验\cv实验四快速均值滤波e4.2\cv实验四快速均值滤波e4.2\e4.2.cpp(128): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+  CV实验四快速均值滤波E4.2.vcxproj -> D:\CV实验\CV实验四快速均值滤波E4.2\x64\Debug\CV实验四快速均值滤波E4.2.exe

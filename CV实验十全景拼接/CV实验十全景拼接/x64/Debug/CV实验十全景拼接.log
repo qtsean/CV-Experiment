@@ -1,0 +1,7 @@
+﻿  e10.cpp
+d:\cv实验\cv实验十全景拼接\cv实验十全景拼接\e10.cpp(77): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  CV实验十全景拼接.vcxproj -> D:\CV实验\CV实验十全景拼接\x64\Debug\CV实验十全景拼接.exe

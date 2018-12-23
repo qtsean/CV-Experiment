@@ -1,0 +1,9 @@
+﻿  e3.1.cpp
+d:\cv实验\cv实验三几何变换与变形\cv实验三几何变换与变形\e3.1.cpp(39): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+d:\cv实验\cv实验三几何变换与变形\cv实验三几何变换与变形\e3.1.cpp(72): warning C4838: 从“int”转换到“double”需要收缩转换
+d:\cv实验\cv实验三几何变换与变形\cv实验三几何变换与变形\e3.1.cpp(73): warning C4838: 从“int”转换到“double”需要收缩转换
+  CV实验三几何变换与变形.vcxproj -> D:\CV实验\CV实验三几何变换与变形\x64\Debug\CV实验三几何变换与变形仿射变换.exe

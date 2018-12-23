@@ -1,0 +1,7 @@
+﻿  E3.2.cpp
+d:\cv实验\cv实验三图像变形\cv实验三图像变形\e3.2.cpp(24): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+  CV实验三图像变形.vcxproj -> D:\CV实验\CV实验三图像变形\x64\Debug\CV实验三图像变形.exe

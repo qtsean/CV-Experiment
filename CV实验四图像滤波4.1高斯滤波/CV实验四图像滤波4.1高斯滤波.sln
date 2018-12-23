@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CV实验四图像滤波4.1高斯滤波", "CV实验四图像滤波4.1高斯滤波\CV实验四图像滤波4.1高斯滤波.vcxproj", "{F658B9C4-F85F-4AB9-AC34-259B6935816B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F658B9C4-F85F-4AB9-AC34-259B6935816B}.Debug|x64.ActiveCfg = Debug|x64
+		{F658B9C4-F85F-4AB9-AC34-259B6935816B}.Debug|x64.Build.0 = Debug|x64
+		{F658B9C4-F85F-4AB9-AC34-259B6935816B}.Debug|x86.ActiveCfg = Debug|Win32
+		{F658B9C4-F85F-4AB9-AC34-259B6935816B}.Debug|x86.Build.0 = Debug|Win32
+		{F658B9C4-F85F-4AB9-AC34-259B6935816B}.Release|x64.ActiveCfg = Release|x64
+		{F658B9C4-F85F-4AB9-AC34-259B6935816B}.Release|x64.Build.0 = Release|x64
+		{F658B9C4-F85F-4AB9-AC34-259B6935816B}.Release|x86.ActiveCfg = Release|Win32
+		{F658B9C4-F85F-4AB9-AC34-259B6935816B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FE2FD69-5D9A-42D4-9361-86794B24521E}
+	EndGlobalSection
+EndGlobal
